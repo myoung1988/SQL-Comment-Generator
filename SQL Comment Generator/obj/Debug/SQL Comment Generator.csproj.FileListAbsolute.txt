@@ -1,0 +1,13 @@
+c:\users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\bin\Debug\SQL Comment Generator.exe.config
+c:\users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\bin\Debug\SQL Comment Generator.exe
+c:\users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\bin\Debug\SQL Comment Generator.pdb
+c:\users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\obj\Debug\SQL Comment Generator.csprojResolveAssemblyReference.cache
+c:\users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\obj\Debug\SQL_Comment_Generator.Properties.Resources.resources
+c:\users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\obj\Debug\SQL Comment Generator.csproj.GenerateResource.Cache
+c:\users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\obj\Debug\SQL Comment Generator.exe
+c:\users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\obj\Debug\SQL Comment Generator.pdb
+C:\Users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\obj\Debug\SQL_Comment_Generator.HistoryLogAdd.resources
+C:\Users\i335624\documents\visual studio 2013\Projects\SQL Comment Generator\SQL Comment Generator\obj\Debug\SQL_Comment_Generator.Main.resources
+C:\Users\mike1\OneDrive\SQL Comment Generator\SQL Comment Generator\SQL Comment Generator\bin\Debug\SQL Comment Generator.exe.config
+C:\Users\mike1\OneDrive\SQL Comment Generator\SQL Comment Generator\SQL Comment Generator\obj\Debug\SQL Comment Generator.exe
+C:\Users\mike1\OneDrive\SQL Comment Generator\SQL Comment Generator\SQL Comment Generator\obj\Debug\SQL Comment Generator.pdb
